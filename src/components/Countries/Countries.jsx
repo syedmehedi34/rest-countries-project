@@ -48,7 +48,7 @@ const Countries = () => {
         Rest Countries : {countries.length}
       </h1>
       <h1 className="text-2xl font-bold ">
-        Visited Countries : {visited.length}
+        Visited Countries: {visited.length}
       </h1>
 
       {/* Toggle Button to Show Only Visited Countries */}
